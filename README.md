@@ -1,6 +1,3 @@
-Here's a README template for your GitHub repository:
-
----
 
 # Python Programming Challenges
 
@@ -26,7 +23,5 @@ Each solution is designed to demonstrate a specific concept or technique in Pyth
 
    ```
 
-## Contributing
 
-If you have suggestions for additional challenges or improvements, feel free to open an issue or submit a pull request.
 
